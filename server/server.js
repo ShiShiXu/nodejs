@@ -53,7 +53,7 @@ http.createServer( function (request, response) {
 //运行server.js文件后、控制台会输出以下信息：Server running at http://127.0.0.1:8081/
 
 console.log('Server running at http://127.0.0.1:8081/');
-//3、接下来我们在该目录下创建一个 index.htm 文件，代码如下：
+//3、接下来我们在该目录下创建一个 index.html 文件，代码如下：
 /*
      <!DOCTYPE html>
      <html lang="en">
